@@ -1,0 +1,53 @@
+.app {
+    text-align: center;
+} 
+
+.contactsList {
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.contactImage {
+    border-radius: 50%;
+    width: 80%;
+}
+
+.contactItem {
+    margin: 0 20px;
+    background-color: lightcyan;
+    width: 25%;
+}
+
+.contactForm {
+	height: 200px;
+	width: 50%;
+	margin: 0 auto;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+.contactForm  input {
+    display: block;
+    margin: 10px auto;
+	height: 30px;
+	width: 75%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+
+.contactForm  button {
+    border-radius: 10px;
+	color: #FFF;
+    background-color: rgb(163, 112, 0);
+    display: block;
+    margin: 0 auto;
+    border: none;
+	width: 150px;
+    height: 50px;	
+    width: 75%;
+	
+}
